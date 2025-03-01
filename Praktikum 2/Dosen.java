@@ -1,3 +1,9 @@
+/* Nama File    : Dosen.java
+ * Deskripsi    : berisi atribut dan method dalam class Dosen
+ * Pembuat      : Muhammad Iqbal Haqiqi / 24060123140191
+ * Tanggal      : 1 Maret 2025
+ */
+
 // Class Dosen
 public class Dosen {
     private String nip;
