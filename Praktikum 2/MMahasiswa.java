@@ -1,3 +1,10 @@
+/* Nama File    : MMahasiswa.java
+ * Deskripsi    : berisi program utama untuk mengelola data mahasiswa, dosen, mata kuliah, dan kendaraan
+ * Pembuat      : Muhammad Iqbal Haqiqi / 24060123140191
+ * Tanggal      : 1 Maret 2025
+ */
+
+
 public class MMahasiswa {
     public static void main(String[] args) {
             MataKuliah PBO = new MataKuliah("PBO", "Pemrograman Berorientasi Objek", 3);
