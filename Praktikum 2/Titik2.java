@@ -1,7 +1,7 @@
 /* Nama File    : Titik.java
  * Deskripsi    : berisi atribut dan method dalam class Titik
  * Pembuat      : Muhammad Iqbal Haqiqi / 24060123140191
- * Tanggal      : 21 Februari 2025
+ * Tanggal      : 1 Maret 2025
  */
 
 
