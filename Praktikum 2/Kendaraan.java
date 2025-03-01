@@ -1,3 +1,9 @@
+/* Nama File    : Kendaraan.java
+ * Deskripsi    : berisi atribut dan method dalam class Kendaraan
+ * Pembuat      : Muhammad Iqbal Haqiqi / 24060123140191
+ * Tanggal      : 1 Maret 2025
+ */
+
 public class Kendaraan {
     private String noPlat;
     private String jenis;
