@@ -1,3 +1,10 @@
+/* Nama File    : MataKuliah.java
+ * Deskripsi    : berisi atribut dan method dalam class MataKuliah
+ * Pembuat      : Muhammad Iqbal Haqiqi / 24060123140191
+ * Tanggal      : 1 Maret 2025
+ */
+
+
 // Class MataKuliah
 public class MataKuliah {
     private String idMatKul;
